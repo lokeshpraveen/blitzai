@@ -4,6 +4,7 @@ import BarChart from "./BarChart";
 import Header from "./Components/Header";
 import {FormControl, InputLabel, MenuItem, Select} from "@material-ui/core";
 import {useEffect, useState} from "react";
+import AppBar from "./Components/AppBar";
 
 
 function App() {
@@ -17,18 +18,19 @@ function App() {
   return (
 
     <div className="App">
+        <AppBar/>
       <header className="App-header">
 <div style={{display:'flex',justifyContent:'space-around'}}>
-    <div>
-        <FormControl style={{width:'150%',marginTop:'12%'}} sx={{ m: 1, minWidth: 80 }}>
-            <InputLabel id="demo-simple-select-autowidth-label">Age</InputLabel>
+    <div style={{fontWeight:800}}>SELECT CHART
+        <FormControl style={{width:'100%',marginTop:'12%'}} sx={{ m: 1, minWidth: 80 }}>
+            <InputLabel id="demo-simple-select-autowidth-label">Charts</InputLabel>
             <Select
                 labelId="demo-simple-select-autowidth-label"
                 id="demo-simple-select-autowidth"
                 value={age}
                 onChange={handleChange}
                 autoWidth
-                label="Age"
+                label="Charts"
             >
                 <MenuItem value="">
                     <em>None</em>
@@ -41,7 +43,7 @@ function App() {
 
     </div>
 
-        <DarkMode/>
+
 
 </div>
           <BarChart data={age}/>
