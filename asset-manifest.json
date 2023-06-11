@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blitzai/static/css/main.4dd11b00.css",
+    "main.js": "/blitzai/static/js/main.b9a550d5.js",
+    "static/js/787.6dc69aea.chunk.js": "/blitzai/static/js/787.6dc69aea.chunk.js",
+    "index.html": "/blitzai/index.html",
+    "main.4dd11b00.css.map": "/blitzai/static/css/main.4dd11b00.css.map",
+    "main.b9a550d5.js.map": "/blitzai/static/js/main.b9a550d5.js.map",
+    "787.6dc69aea.chunk.js.map": "/blitzai/static/js/787.6dc69aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd11b00.css",
+    "static/js/main.b9a550d5.js"
+  ]
+}
