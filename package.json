@@ -1,5 +1,5 @@
 {
-  "homepage": "http://lokeshpraveen.github.io/blitzai/  ",
+  "homepage": "https://lokeshpraveen.github.io/blitzai",
   "name": "blitzai",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
