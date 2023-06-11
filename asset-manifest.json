@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/blitzai-gh-pages/static/css/main.4dd11b00.css",
-    "main.js": "/blitzai-gh-pages/static/js/main.bfb42f21.js",
-    "static/js/787.6dc69aea.chunk.js": "/blitzai-gh-pages/static/js/787.6dc69aea.chunk.js",
-    "index.html": "/blitzai-gh-pages/index.html",
-    "main.4dd11b00.css.map": "/blitzai-gh-pages/static/css/main.4dd11b00.css.map",
-    "main.bfb42f21.js.map": "/blitzai-gh-pages/static/js/main.bfb42f21.js.map",
-    "787.6dc69aea.chunk.js.map": "/blitzai-gh-pages/static/js/787.6dc69aea.chunk.js.map"
+    "main.css": "/blitzai/%20%20/static/css/main.4dd11b00.css",
+    "main.js": "/blitzai/%20%20/static/js/main.7191506d.js",
+    "static/js/787.6dc69aea.chunk.js": "/blitzai/%20%20/static/js/787.6dc69aea.chunk.js",
+    "index.html": "/blitzai/%20%20/index.html",
+    "main.4dd11b00.css.map": "/blitzai/%20%20/static/css/main.4dd11b00.css.map",
+    "main.7191506d.js.map": "/blitzai/%20%20/static/js/main.7191506d.js.map",
+    "787.6dc69aea.chunk.js.map": "/blitzai/%20%20/static/js/787.6dc69aea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dd11b00.css",
-    "static/js/main.bfb42f21.js"
+    "static/js/main.7191506d.js"
   ]
 }
